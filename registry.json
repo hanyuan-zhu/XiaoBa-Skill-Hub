@@ -12,5 +12,12 @@
     "category": "工具",
     "recommended": false,
     "repo": "https://github.com/fightheyyy/HangToLa-Skill"
+  },
+  {
+    "name": "remember",
+    "description": "记住用户的个性化偏好并持久化",
+    "category": "核心",
+    "recommended": false,
+    "repo": "https://github.com/fightheyyy/xiaoba-skill-remember"
   }
 ]
