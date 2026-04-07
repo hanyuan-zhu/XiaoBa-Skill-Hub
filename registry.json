@@ -19,5 +19,12 @@
     "category": "核心",
     "recommended": false,
     "repo": "https://github.com/fightheyyy/xiaoba-skill-remember"
+  },
+  {
+    "name": "sc-analysis",
+    "description": "单细胞RNA-seq分析完整流程。从原始数据到可发表图表，16步覆盖数据探查、QC、整合、聚类、注释、Marker、差异、富集、轨迹、Velocity、SCENIC、CellChat全流程。",
+    "category": "科研",
+    "recommended": false,
+    "repo": "https://github.com/hanyuan-zhu/xiaoba-skill-sc-analysis"
   }
 ]
