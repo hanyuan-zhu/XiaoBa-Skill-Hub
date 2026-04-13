@@ -26,5 +26,12 @@
     "category": "科研",
     "recommended": false,
     "repo": "https://github.com/hanyuan-zhu/xiaoba-skill-sc-analysis"
+  },
+  {
+    "name": "memory-search",
+    "description": "记忆搜索工具。当用户要求\"回忆\"、\"查找\"、\"搜索\"过去的对话、工具调用、错误记录时使用。",
+    "category": "工具",
+    "recommended": false,
+    "repo": "https://github.com/hanyuan-zhu/xiaoba-skill-memory-search"
   }
 ]
